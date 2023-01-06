@@ -1,1 +1,2 @@
 This is the second session of Let's Git it! by FOSSMEC
+The session was handled by Aldrin and Gokul
