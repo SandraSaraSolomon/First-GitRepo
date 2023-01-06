@@ -1,3 +1,5 @@
 This is the second session of Let's Git it! by FOSSMEC
 The session was handled by Aldrin and Gokul
 We learnt about why Git is important.
+We learnt to push and clone version from and to GitHub
+
